@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Moktan</h1>
 <h3 align="center">I'm a devoted enthusiast of programming and technology, driven by a curiosity to solve intricate puzzles and embrace the latest innovations. My passion lies in crafting elegant code and leveraging cutting-edge advancements to create impactful solutions that shape our digital landscape.
 </h3>
-<h3>IAM NOT YOUNG ENOUGH TO KNOW EVERYTHING ( By Oscar wilde)</h3>
+<h3 align="center">IAM NOT YOUNG ENOUGH TO KNOW EVERYTHING ( By Oscar wilde)</h3>
 
 <img align="right" alt="coding" width="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <h3 align="left">Connect with me:</h3>
